@@ -5,7 +5,7 @@ public class SampleProject {
 	public static String printHello() {
 		
 		String c = " ";
-		c="hello world";
+		c="Hello World!";
 		return c;
 	}
 	public static int add(int a,int b) {
